@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const swearWords = ["darn", "sex", "pussy", "vagina", "cum", "cemen", "cock", "shit", "fuck", "shite", "dick", "cunt", "bloody", "hell", "bitch", "ass", "nigger"]; //continue to add more in this format: "", "", ...
+const swearWords = ["darn", "sex", "pussy", "vagina", "cum", "cemen", "cock", "shit", "fuck", "shite", "dick", "cunt", "bloody", "bitch", "ass", "nigger"]; //continue to add more in this format: "", "", ...
 const links = ["http", "www.", ".co.uk", ".com"];
 const allowedLinkPosters = ["", "", ""];
 const guild = {};
